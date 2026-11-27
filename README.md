@@ -1,0 +1,2 @@
+# Autonomous-Racing-in-Trackmania-via-Deep-Reinforcement-Learning---WIDS
+racing requires split-second control, spatial anticipation, and precise throttle-to-brake balance—making Trackmania an ideal sandbox for real-world RL In this project, you will build a complete end-to-end RL pipeline from scratch to train an AI driver that beats rule-based baselines and generalizes across multiple tracks and surfaces.
