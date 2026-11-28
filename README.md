@@ -199,19 +199,4 @@ The repository will evolve as the project progresses, incorporating relevant lea
 
 ---
 
-## 10. Project Information
-
-| Attribute | Details |
-|---|---|
-| Program | Winter in Data Science (WIDS) |
-| Project | Autonomous Racing in Trackmania |
-| Domain | Reinforcement Learning, Deep Learning, Autonomous Control |
-| Project Type | Mentorship and Implementation |
-| Team | Two Mentees |
-| Primary Language | Python |
-| Game Environment | Trackmania |
-| Primary Objective | Developing an autonomous racing agent using Deep Reinforcement Learning |
-
----
-
 **From understanding how machines learn to teaching one how to race.**
